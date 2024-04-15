@@ -1,0 +1,47 @@
+{
+    "BundleArray": {
+        "gassets_launch_res": {
+            "bundle_name": "gassets_launch_res",
+            "crc": "f50f5d55",
+            "size": 2068,
+            "assets": [
+                "Assets/GAssets/Launch/Res/Cube.prefab"
+            ]
+        },
+        "gassets_launch_res_materials": {
+            "bundle_name": "gassets_launch_res_materials",
+            "crc": "41896c58",
+            "size": 25080,
+            "assets": [
+                "Assets/GAssets/Launch/Res/Materials/Player.mat"
+            ]
+        },
+        "gassets_launch_src": {
+            "bundle_name": "gassets_launch_src",
+            "crc": "7457f2a0",
+            "size": 997,
+            "assets": [
+                "Assets/GAssets/Launch/Src/Main.lua"
+            ]
+        }
+    },
+    "AssetArray": [
+        {
+            "asset_path": "Assets/GAssets/Launch/Res/Cube.prefab",
+            "bundle_name": "gassets_launch_res",
+            "dependencies": [
+                "gassets_public_res"
+            ]
+        },
+        {
+            "asset_path": "Assets/GAssets/Launch/Res/Materials/Player.mat",
+            "bundle_name": "gassets_launch_res_materials",
+            "dependencies": []
+        },
+        {
+            "asset_path": "Assets/GAssets/Launch/Src/Main.lua",
+            "bundle_name": "gassets_launch_src",
+            "dependencies": []
+        }
+    ]
+}

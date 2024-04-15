@@ -1,0 +1,19 @@
+{
+    "BundleArray": {
+        "gassets_public_res": {
+            "bundle_name": "gassets_public_res",
+            "crc": "a41f113f",
+            "size": 25006,
+            "assets": [
+                "Assets/GAssets/Public/Res/Player 1.mat"
+            ]
+        }
+    },
+    "AssetArray": [
+        {
+            "asset_path": "Assets/GAssets/Public/Res/Player 1.mat",
+            "bundle_name": "gassets_public_res",
+            "dependencies": []
+        }
+    ]
+}

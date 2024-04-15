@@ -1,0 +1,25 @@
+{
+    "BundleArray": {
+        "gassets_game": {
+            "bundle_name": "gassets_game",
+            "crc": "5e965d4c",
+            "size": 26473,
+            "assets": [
+                "Assets/GAssets/Game/Sphere1.prefab",
+                "Assets/GAssets/Game/Yellow.mat"
+            ]
+        }
+    },
+    "AssetArray": [
+        {
+            "asset_path": "Assets/GAssets/Game/Sphere1.prefab",
+            "bundle_name": "gassets_game",
+            "dependencies": []
+        },
+        {
+            "asset_path": "Assets/GAssets/Game/Yellow.mat",
+            "bundle_name": "gassets_game",
+            "dependencies": []
+        }
+    ]
+}
